@@ -1,6 +1,7 @@
 .column {
   float: left;
   width: 600px;
+  background-color: orange;
 }
 
 h2 {
